@@ -3,3 +3,5 @@ En el presente repositorio se encuentra una recopilación de mis diferentes dise
 
 # Planta de empacadora de bloques
 Como parte de un proyecto colaborativo con la Universidad Nacional Autónoma de México (UNAM) se realizó la creación de una planta empacadora de bloques de colores en miniatura. El presente modelo fue diseñado teniendo en mente su fabricación mediante el uso de MDF 3mm y equipos de corte láser.
+
+![Descripción de la imagen](3D-Designs/Empacadora/Empacadora.png)
