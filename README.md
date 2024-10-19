@@ -6,10 +6,15 @@ Como parte de un proyecto colaborativo con la Universidad Nacional Autónoma de 
 
 ![Ensamblaje total de la empacadora](Empacadora/Empacadora.png)
 
-Para la realización de este proyecto se dividió este en diferentes módulos: 
+Para la realización de este proyecto se escogió utilizar una metología de diseño modular, dividiendo la planta en diferentes módulos montables: 
 - Rack de actuadores
 - Faja transportadora 1
 - Faja transportadora 2
 - Torre de sensado
 
-## Test
+## Rack de actuadores
+El primer módulo diseñado fue un rack vertical por el cual caerían y se acumularían productos destinados a ser empujados hacia una faja transportadora mediante el uso de actuadores lineales.
+
+Para lograr esto, se requirió diseñar una estructura montable que permita contener y guiar a los productos en su caída y ubicarlos en una posición específica consistentemente tal que los actuadores puedan empujarlos sin impedir la caída de los siguientes productos.
+
+Además, se tuvo que adaptar diseños ya existentes de actuadores lineales para que satisfagan los requerimientos de tamaño y distancia de actuación del rack.
