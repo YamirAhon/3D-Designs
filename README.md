@@ -12,4 +12,4 @@ Para la realización de este proyecto se dividió este en diferentes módulos:
 - Faja transportadora 2
 - Torre de sensado
 
-##Test
+## Test
