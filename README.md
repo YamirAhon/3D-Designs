@@ -15,7 +15,7 @@ Para la realización de este proyecto se escogió utilizar una metología de dis
 ## Rack de actuadores
 El primer módulo diseñado fue un rack vertical por el cual caerían y se acumularían productos destinados a ser empujados hacia una faja transportadora mediante el uso de actuadores lineales.
 
-![Ensamblaje total del rack de actuadores](Empacadora/Rack de actuadores/Rack de actuadores.png)
+![Ensamblaje total del rack de actuadores](Empacadora/Rack_de_actuadores/Rack_de_actuadores.png)
 
 Para lograr esto, se requirió diseñar una estructura montable que permita contener y guiar a los productos en su caída y ubicarlos en una posición específica consistentemente tal que los actuadores puedan empujarlos sin impedir la caída de los siguientes productos.
 
