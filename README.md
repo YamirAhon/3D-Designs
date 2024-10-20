@@ -12,7 +12,7 @@ Se diseñó un soporte de sobremesa compacto para un monitor SAMSUNG S19A330NHL 
 ![Soporte_de_monitor](Soporte_de_monitor/Soporte_de_monitor.png)
 
 # Robot de triaje
-Como parte de un proyecto académico se decidió realizar un robot para triaje asistido. A solicitud de los profesores se tuvo como requerimiento que este diseño tenga una forma antropomorfica, es por esto que se decidió tener un torso más curvo con un diseño inspirado por el robot Qhali y para soportar algunos sensores se optó por utilizar modelos ya existentes de manos "low-poly" modificados con espacio para pasar cables. El presente diseño fue realizado para ser fabricado mediante impresión 3D, es por esto que, debido a las limitaciones de la impresora 3D a la que teníamos acceso, se decidió imprimirlo por segmentos y unirlos usando cloroformo; finalmente, se haría uso de macilla y pintura para cubrir los defectos. 
+Como parte de un proyecto académico se decidió crear un robot para triaje asistido. A solicitud de los profesores se tuvo como requerimiento que este diseño tenga una forma antropomorfica, es por esto que se decidió tener un torso más curvo con un diseño inspirado por el robot Qhali y para soportar algunos sensores se optó por utilizar modelos ya existentes de manos "low-poly" modificados con espacio para pasar cables. El presente diseño fue realizado para ser fabricado mediante impresión 3D, es por esto que, debido a las limitaciones de la impresora 3D a la que teníamos acceso, se decidió imprimirlo por segmentos y unirlos usando cloroformo; finalmente, se haría uso de macilla y pintura para cubrir los defectos. 
 
 ![Robot_de_triaje](Robot_de_triaje/Robot_de_triaje.png)
 
