@@ -6,6 +6,12 @@ Se solicitó crear una caja de acceso de dimensiones reducidas que pueda exponer
 
 ![Caja_de_acceso](Caja_de_acceso/Caja_de_acceso.png)
 
+# Soporte para monitor
+
+Se diseñó un soporte de sobremesa compacto para un monitor SAMSUNG S19A330NHL de 18 pulgadas. Para esto se tomaron las medidas del monitor y se realizó su diseño 3D para luego poder diseñar un soporte con inclinación de 10 grados, facilidad de ensamblaje y que no impida la conexión de los cables del monitor. Para el acceso al monitor para su retiro o mantenimiento se integraron aletas con huecos para pernos como método de fijación de una tapa trasera de inserción lateral.
+
+![Soporte_de_monitor](Soporte_de_monitor/Soporte_de_monitor.png)
+
 # Planta empacadora de bloques
 Como parte de un proyecto colaborativo con la Universidad Nacional Autónoma de México (UNAM) se realizó la creación de una planta empacadora de bloques de colores en miniatura. El presente modelo fue diseñado teniendo en mente su fabricación mediante el uso de MDF 3mm y equipos de corte láser.
 
