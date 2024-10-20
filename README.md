@@ -18,7 +18,8 @@ El primer módulo diseñado fue un rack vertical por el cual caerían y se acumu
 ![Ensamblaje total del rack de actuadores](Empacadora/Rack_de_actuadores/Rack_de_actuadores.png)
 
 ### Faja transportadora 1
-Luego, se diseñó la estructura de una faja transportadora que le permita desplazar los productos haciendolos pasar por una estación de sensado de color, sensores de proximidad infrarrojos y servomotores con de guías para el reposicionamiento de productos. 
+Luego, se diseñó la estructura de una faja transportadora que permita desplazar los productos haciendolos pasar por una estación de sensado de color, sensores de proximidad infrarrojos y servomotores con de guías para el reposicionamiento de productos. Para el funcionamiento de la faja se fabricaron mediante impresión 3D rodillos dentro de los cuales se fijaron rodamientos en sus extremos, y dentro de estos se fijarían otras piezas que permitirían fijar los rodillos a la estructura y establecer un enlace con el motor encargado del movimiento de la faja.
+
 ![Ensamblaje total del rack de actuadores](Empacadora/Faja_transportadora_1/Faja_transportadora_1.png)
 
 
