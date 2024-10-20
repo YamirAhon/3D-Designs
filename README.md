@@ -2,7 +2,7 @@
 En el presente repositorio se encuentra una recopilación de mis diferentes diseños 3D de los projectos en los que he participado a lo largo de mi trayectoria académica y profesional. Estos diseños muestran mis habilidades en modelado 3D, diseño mecánico y desarrollo de productos utilizando principalmente el software Autodesk Inventor.
 
 # Caja de acceso
-Se solicitó crear una caja de acceso de dimensiones 
+Se solicitó crear una caja de acceso de dimensiones reducidas que pueda exponer en su frente un teclado matricial de tipo membrana y un display LCD. Como requerimientos del diseño de solicitó que se deje espacio para el PCB del dispositivo y un buzzer pequeño. Se solicitó que se agreguen huecos en la parte inferior para 
 
 # Planta de empacadora de bloques
 Como parte de un proyecto colaborativo con la Universidad Nacional Autónoma de México (UNAM) se realizó la creación de una planta empacadora de bloques de colores en miniatura. El presente modelo fue diseñado teniendo en mente su fabricación mediante el uso de MDF 3mm y equipos de corte láser.
