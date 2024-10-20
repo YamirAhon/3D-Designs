@@ -24,9 +24,9 @@ Luego, se diseñó la estructura de una faja transportadora que permita desplaza
 
 
 ### Faja transportadora 2
+Seguidamente, se diseñó una estructura de similar funcionamiento a la faja transportadora 1, solo cambiando su ancho para poder transportar una caja que estará recibiendo los productos que caida desde la faja transportadora 1.
 
-
-
+![Ensamblaje total del rack de actuadores](Empacadora/Faja_transportadora_2/Faja_transportadora_2.png)
 
 ### Torre de sensado
 Para el sensado de colores de lo productos se decidió diseñar una torre de sensado que permita cubrir el producto y mantener en oscuridad el sensor de colores para minimizar la interferencia en las mediciones ocasionada por la variación de la intensidad de luz exterior. Se fijó el sensor de colores a una distancia de 5mm con respecto al producto a medir para reducir el error del sensado debido a la distancia. Para el acceso a al sensor para su mantenimiento se integraron aletas con huecos para pernos como método de fijación de una tapa superior.
