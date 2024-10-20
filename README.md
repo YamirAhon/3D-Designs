@@ -6,7 +6,7 @@ Se solicitó crear una caja de acceso de dimensiones reducidas que pueda exponer
 
 ![Ensamblaje total de la empacadora](Caja_de_acceso/Caja_de_acceso.png)
 
-# Planta de empacadora de bloques
+# Planta empacadora de bloques
 Como parte de un proyecto colaborativo con la Universidad Nacional Autónoma de México (UNAM) se realizó la creación de una planta empacadora de bloques de colores en miniatura. El presente modelo fue diseñado teniendo en mente su fabricación mediante el uso de MDF 3mm y equipos de corte láser.
 
 ![Ensamblaje total de la empacadora](Empacadora/Empacadora.png)
