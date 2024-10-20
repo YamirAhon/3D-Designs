@@ -19,10 +19,6 @@ El primer módulo diseñado fue un rack vertical por el cual caerían y se acumu
 
 Para lograr esto, se requirió diseñar una estructura montable que permita contener y guiar a los productos en su caída y ubicarlos en una posición específica consistentemente tal que los actuadores puedan empujarlos sin impedir la caída de los siguientes productos.
 
-![Ensamblaje total del rack de actuadores](Empacadora/Rack_de_actuadores/Rack.png)
+![Ensamblaje total del rack de actuadores](Empacadora/Rack_de_actuadores/PARTES_Rack_de_actuadores.png)
 
 Además, se tuvo que diseñar una caja de actuadores, para la cual se tuvo que adaptar diseños ya existentes de actuadores lineales para que puedan satisfacer los requerimientos de tamaño y distancia de actuación del rack y puedan ser fijados a la estructura.
-
-![Ensamblaje total del rack de actuadores](Empacadora/Rack_de_actuadores/Caja_de_actuadores.png)
-
-![Ensamblaje total del rack de actuadores](Empacadora/Rack_de_actuadores/Actuadores.png)
