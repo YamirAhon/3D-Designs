@@ -12,7 +12,9 @@ Se diseñó un soporte de sobremesa compacto para un monitor SAMSUNG S19A330NHL 
 ![Soporte_de_monitor](Soporte_de_monitor/Soporte_de_monitor.png)
 
 # Robot de triaje
-Como parte de un proyecto académico se decidió realizar un robot para triaje. A solicitud de los profesores se tuvo como requerimiento que este diseño tenga una forma antropomorfica, es por esto que se decidió tener un torso más curvo con un diseño inspirado por el robot Qhali y se optó por utilizar modelos ya existentes de manos "low-poly" modificados con espacio para pasar cables
+Como parte de un proyecto académico se decidió realizar un robot para triaje asistido. A solicitud de los profesores se tuvo como requerimiento que este diseño tenga una forma antropomorfica, es por esto que se decidió tener un torso más curvo con un diseño inspirado por el robot Qhali y para soportar algunos sensores se optó por utilizar modelos ya existentes de manos "low-poly" modificados con espacio para pasar cables.
+
+![Robot_de_triaje](Robot_de_triaje/Robot_de_triaje.png)
 
 # Planta empacadora de bloques
 Como parte de un proyecto colaborativo con la Universidad Nacional Autónoma de México (UNAM) se realizó la creación de una planta empacadora de bloques de colores en miniatura. El presente modelo fue diseñado teniendo en mente su fabricación mediante el uso de MDF 3mm y equipos de corte láser.
