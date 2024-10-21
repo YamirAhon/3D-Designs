@@ -1,11 +1,6 @@
 # Introducción
 En el presente repositorio se encuentra una recopilación de mis diferentes diseños 3D de los projectos en los que he participado a lo largo de mi trayectoria académica y profesional. Estos diseños muestran mis habilidades en modelado 3D, diseño mecánico y desarrollo de productos utilizando principalmente el software Autodesk Inventor.
 
-# Caja de acceso
-Se solicitó crear una caja de acceso de dimensiones reducidas que pueda exponer en su frente un teclado matricial de tipo membrana y un display LCD. Como requerimientos del diseño de solicitó que se deje espacio para el PCB del dispositivo y un buzzer pequeño y que se deje huecos en la cara trasera para el pase de cableado. Además, se solicitó que se agreguen huecos en la parte inferior para la emisión de sonido y para la ubicación de un botón de reinicio del sistema. Para la cara frontal se modificaron diseños 3D de monturas para el teclado matricial de tal manera que también encaje el display LCD en este. Para el acceso al PCB para su mantenimiento se integraron aletas con huecos para pernos como método de fijación de una tapa trasera. El diseño presentado fue realizado teniendo en consideración la intención del cliente de hacer uso de acrílico procesado mediante corte laser como material principal para su fabricación.
-
-![Caja_de_acceso](Caja_de_acceso/Caja_de_acceso.png)
-
 # Soporte para monitor
 Se diseñó un soporte de sobremesa compacto para un monitor SAMSUNG S19A330NHL de 18 pulgadas. Para esto se tomaron las medidas del monitor y se realizó su diseño 3D para luego poder diseñar un soporte con inclinación de 10 grados, facilidad de ensamblaje y que no impida la conexión de los cables del monitor. Para el acceso al monitor para su retiro o mantenimiento se integraron aletas con huecos para pernos como método de fijación de una tapa trasera de inserción lateral.
 
