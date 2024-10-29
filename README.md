@@ -2,7 +2,7 @@
 En el presente repositorio se encuentra una recopilación de mis diferentes diseños 3D de los projectos en los que he participado a lo largo de mi trayectoria académica y profesional. Estos diseños muestran mis habilidades en modelado 3D, diseño mecánico y desarrollo de productos utilizando principalmente el software Autodesk Inventor.
 
 # Soporte para monitor
-Se diseñó un soporte de sobremesa compacto para un monitor SAMSUNG S19A330NHL de 18 pulgadas. Para esto se tomaron las medidas del monitor y se realizó su diseño 3D para luego poder diseñar un soporte con inclinación de 10 grados, facilidad de ensamblaje y que no impida la conexión de los cables del monitor. Para el acceso al monitor para su retiro o mantenimiento se integraron aletas con huecos para pernos como método de fijación de una tapa trasera de inserción lateral.
+Se diseñó un soporte de sobremesa compacto para un monitor SAMSUNG S19A330NHL de 18 pulgadas. Para esto se tomaron las medidas del monitor y se realizó su modelado 3D para luego poder diseñar un soporte con inclinación de 10 grados, facilidad de ensamblaje y que no impida la conexión de los cables del monitor. Para el acceso al monitor para su retiro o mantenimiento se integraron aletas con huecos para pernos como método de fijación de una tapa trasera de inserción lateral.
 
 ![Soporte_de_monitor](Soporte_de_monitor/Soporte_de_monitor.png)
 
