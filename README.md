@@ -1,6 +1,11 @@
 # Introducción
 En el presente repositorio se encuentra una recopilación de mis diferentes diseños 3D de los projectos en los que he participado a lo largo de mi trayectoria académica y profesional. Estos diseños muestran mis habilidades en modelado 3D, diseño mecánico y desarrollo de productos utilizando principalmente el software Autodesk Inventor.
 
+# Dedal para pulsoximetro
+Se diseñó un dedal para un pulsoximetro MAX30102. Este prototipo es un dedal que hace uso de resortes de un resorte de torsión para poder ejercer presión entre el dedo, el sensor y la parte superior del dedal. Para el diseño de este prototipo se realizó el modelo 3D de un resorte genérico de gancho para cabello con su respectivo pin de fijación y se redimensionó el modelo 3D de un MAX30100 para que sea de las mismas dimensiones que un MAX30102.
+
+![Dedal_para_pulsoximetro](Dedal_para_pulsoximetro/Dedal_para_pulsoximetro.png)
+
 # Soporte para monitor
 Se diseñó un soporte de sobremesa compacto para un monitor SAMSUNG S19A330NHL de 18 pulgadas. Para esto se tomaron las medidas del monitor y se realizó su modelado 3D para luego poder diseñar un soporte con inclinación de 10 grados, facilidad de ensamblaje y que no impida la conexión de los cables del monitor. Para el acceso al monitor para su retiro o mantenimiento se integraron aletas con huecos para pernos como método de fijación de una tapa trasera de inserción lateral.
 
